@@ -3,7 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/ejb/MateriaFacadeLocal.java</file>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/ejb/AbstractFacade.java</file>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/modelo/Materia.java</file>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/ejb/EstudianteFacadeLocal.java</file>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/ejb/EstudianteFacade.java</file>
             <file>file:/home/robot/NetBeansProjects/matriculalab1/src/conf/persistence.xml</file>
+            <file>file:/home/robot/NetBeansProjects/matriculalab1/src/java/com/udea/ejb/MateriaFacade.java</file>
             <file>file:/home/robot/NetBeansProjects/matriculalab1/web/WEB-INF/glassfish-resources.xml</file>
         </group>
     </open-files>
